@@ -26,6 +26,15 @@ Please take a moment to complete the class survey at: https://goo.gl/gQg1iQ.
 - [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
 
+## Added Resources from Class
+
+- [Training-Utils](https://github.com/github/training-utils)
+- [Works With](http://github.com/works-with)
+- [Code Owners](https://help.github.com/articles/about-codeowners/)
+- [Phil Haack's Aliases](https://haacked.com/archive/2014/07/28/github-flow-aliases/)
+- [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh)
+- [Prezto - Eric's Shell](https://github.com/sorin-ionescu/prezto)
+
 ### Class Images
 - [Git Configuration Levels](https://services.github.com/on-demand/images/config-levels.jpg)
 - [The Two Stage Commit](https://services.github.com/on-demand/images/two-stage-commit-a.jpg)
