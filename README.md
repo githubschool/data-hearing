@@ -35,6 +35,7 @@ Please take a moment to complete the class survey at: https://goo.gl/gQg1iQ.
 - [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Prezto - Eric's Shell](https://github.com/sorin-ionescu/prezto)
 - [Script for Issue Generation](https://github.com/github/platform-samples/tree/master/app/ruby/app-issue-creator)
+- [Another Issue Generator](https://github.com/IQAndreas/github-issues-import)
 
 ### Class Images
 - [Git Configuration Levels](https://services.github.com/on-demand/images/config-levels.jpg)
